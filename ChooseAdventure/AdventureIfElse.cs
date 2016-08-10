@@ -10,6 +10,7 @@ namespace ChooseAdventure
     {
         public Player player;
 
+        //This is considered?
         public Adventure()
         {
             this.player = new Player();
@@ -34,7 +35,7 @@ namespace ChooseAdventure
                 Console.WriteLine("That is not a valid option, you have chosen..poorly..");
             }
 
-            }
+        }
         
         private void DecisionPocket()
         {
