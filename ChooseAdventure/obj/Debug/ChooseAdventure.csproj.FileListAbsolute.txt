@@ -7,3 +7,6 @@ C:\Users\nltho\Documents\Visual Studio 2015\Projects\ChooseAdventure\ChooseAdven
 C:\Users\nltho\Documents\GitHub\Adventure\ChooseAdventure\bin\Debug\ChooseAdventure.exe.config
 C:\Users\nltho\Documents\GitHub\Adventure\ChooseAdventure\obj\Debug\ChooseAdventure.exe
 C:\Users\nltho\Documents\GitHub\Adventure\ChooseAdventure\obj\Debug\ChooseAdventure.pdb
+C:\Users\nltho\Documents\GitHub\Adventure\ChooseAdventure\bin\Debug\ChooseAdventure.exe
+C:\Users\nltho\Documents\GitHub\Adventure\ChooseAdventure\bin\Debug\ChooseAdventure.pdb
+C:\Users\nltho\Documents\GitHub\Adventure\ChooseAdventure\obj\Debug\ChooseAdventure.csprojResolveAssemblyReference.cache

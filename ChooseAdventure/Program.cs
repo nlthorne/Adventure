@@ -13,8 +13,9 @@ namespace ChooseAdventure
             Adventure adventure = new Adventure();
             adventure.player.getPlayerName();
             adventure.RunAdventure();
-
-            Console.WriteLine("Thank you for playing!!");
+            Console.WriteLine("Press any key to continue");
+            Console.ReadLine();
+            Console.WriteLine("Thanks for playing!!");
             Console.ReadLine();
 
         }
