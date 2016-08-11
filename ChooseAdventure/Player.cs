@@ -10,7 +10,7 @@ namespace ChooseAdventure
     {
         public string name;
 
-        public void getPlayerName()
+        public void setPlayerName()
         {
             Console.WriteLine("Please enter a name for your adventurer: ");
             this.name = Console.ReadLine();

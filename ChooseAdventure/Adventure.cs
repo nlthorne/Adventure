@@ -12,7 +12,6 @@ namespace ChooseAdventure
 
         
         public Adventure()
-        //This is considered uniterated constructor?
         {
             this.player = new Player();
         }
